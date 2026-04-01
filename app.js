@@ -81,18 +81,16 @@ const translations = {
         'kitchen-subtitle': '在這裡，每一滴精華都能化作餐桌上的溫暖與美力。',
         'kitchen-home-title': '澄花家廚',
         'kitchen-home-desc': `
-            有父親澄雄的穩妥，有母親芳代子的馨香。<br><br>
-            廚房是家中最溫暖的場所。以父母之名，收藏歲月的馨香。<br>
-            我們以「澄花食譜」為名，復刻家常點滴，與您分享愛與傳承的真味。
+            廚房是家裡最溫暖的地方，也掌管了全家人的健康。記憶裡的滋味，還收藏著歲月的馨香。<br>
+            以「澄花食譜」為名，復刻家常點滴，與您分享愛與傳承的真味。
         `,
         'kitchen-master-title': '名廚旨味',
         'kitchen-master-desc': `
-            沁養潤澤，餘韻悠長。<br><br>
-            指尖的倒影，是工匠之心的探尋。<br>
-            我們將名廚的私房祕技領入您的餐桌，與您共嘗生命的清鮮與厚重。
+            指尖的倒影，是匠心的探尋。<br>
+            我們將名廚的私房祕技領入您的餐桌，與您共嘗人生甘味的沁養潤澤，餘韻悠長。
         `,
-        'kitchen-btn-home': '歡迎回家 &rarr;',
-        'kitchen-btn-enter': '進入教室 &rarr;',
+        'kitchen-btn-home': '回家吃飯 &rarr;',
+        'kitchen-btn-enter': '廚藝教室 &rarr;',
         'kitchen-event-title': '澄芳選',
         'kitchen-event-desc': '民間高手 ‧ 私藏風味的選拔。尋找藏在日常裡的味覺實踐者。在這裡，每個人都是品味的策展人。您的私房祕技，是澄花堂最珍貴的收藏!',
         'reward-badge': '🎁 選味獎勵',
@@ -237,18 +235,16 @@ const translations = {
         'kitchen-subtitle': '一滴の精華が、食卓のぬくもりと美しさに変わる場所。',
         'kitchen-home-title': '澄花レシピ',
         'kitchen-home-desc': `
-            父・澄雄（すみお）の穏やかさと、母・芳代子（かよこ）の馨しさを込めて。<br><br>
-            キッチンは家庭で最も温かな場所であり、兩親の名を冠したこの場所には、歲月の香りが秘められています。<br>
-            私たちは「澄花レシピ」を通じて、愛と継承の真の味を分かち合います。
+            キッチンは家の中で最も温かい場所であり、家族全員の健康を司る場所でもあります。記憶の中の味わいが、歳月の香りを今に伝えます。<br>
+            『澄花レシピ』の名のもとに、家庭のささやかな日常を再現し、愛と伝統の真実の味をお届けします。
         `,
         'kitchen-master-title': '名廚旨味',
         'kitchen-master-desc': `
-            沁み渡る潤い、悠久に続く余韻。<br><br>
-            職人の指先から生まれる、繊細で深みのある料理の哲学。<br>
-            巨匠たちの私的な味の極みをあなたの食卓へ。澄み渡る生命の喜びを分かち合いましょう。
+            指先に映るこだわりは、匠の心の探求。<br>
+            巨匠の秘伝をあなたの食卓へ。人生の甘み、和やかな潤い、そして悠久に続く余韻を共に味わいましょう。
         `,
         'kitchen-btn-home': 'おかえりなさい &rarr;',
-        'kitchen-btn-enter': '教室に入る &rarr;',
+        'kitchen-btn-enter': '料理教室 &rarr;',
         'kitchen-event-title': '澄芳の綴り',
         'kitchen-event-desc': '民間達人による秘蔵の味わい選抜。日常に潜む味覚の実踐者を探しています。誰もが品味のキュレーターです！',
         'reward-badge': '🎁 選味リワード',
@@ -393,18 +389,16 @@ const translations = {
         'kitchen-subtitle': 'Where every drop of essence transforms into warmth and beauty on your table.',
         'kitchen-home-title': 'Home Kitchen',
         'kitchen-home-desc': `
-            With the steadiness of father Sumio and the fragrance of mother Kayoko.<br><br>
-            The kitchen is the warmest place at home, named after our parents, collecting the fragrance of years.<br>
-            We recreate home routines in "Sumikado Recipes," sharing true tastes of love and legacy.
+            The kitchen is the warmest place in the home, safeguarding the health of the entire family. Memories of its flavors preserve the fragrance of the years.<br>
+            Under the name "Sumikado Recipes," we recreate the moments of home life and share the true taste of love and heritage.
         `,
         'kitchen-master-title': "Chef's Interest",
         'kitchen-master-desc': `
-            Moisturizing and nourishing, with a long-lasting aftertaste.<br><br>
-            Capturing reflections from fingers, exploring the heart of craftsmen.<br>
-            Bringing master secrets to your home, savoring the clear and deep meanings of life.
+            Reflections on fingertips—the exploration of craftsmanship.<br>
+            Bringing master secrets to your table, sharing the nourishing moisture and long-lasting aftertaste of life's true flavors.
         `,
         'kitchen-btn-home': 'Welcome Home &rarr;',
-        'kitchen-btn-enter': 'Enter Class &rarr;',
+        'kitchen-btn-enter': 'Culinary Studio &rarr;',
         'kitchen-event-title': 'Curated Tastes',
         'kitchen-event-desc': 'A selection of hidden flavors from local masters. Everyone is a curator of taste here. "Your secret recipe is precious."',
         'reward-badge': '🎁 Selection Reward',
